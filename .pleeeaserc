@@ -1,0 +1,8 @@
+{
+  "in": "./src/css/**/*.styl",
+  "out": "./dist/css/bundle.css",
+  "browsers": ["last 2 versions"],
+  "stylus": true,
+  "minifier": false,
+  "sourcemaps": true
+}
