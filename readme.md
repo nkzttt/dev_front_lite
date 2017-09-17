@@ -13,7 +13,7 @@ pleeease（stylus）
 babelify
 
 ### Server
-browserify
+browser-sync
 
 ## タスク
 
